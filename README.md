@@ -36,7 +36,7 @@ Esse modelo mostra como as entidades do DER viram estruturas com nomes de tabela
 Com base no modelo lógico, construí o banco no MySQL Workbench.  
 Aqui já temos os nomes das tabelas, campos, tipos de dados e relacionamentos prontos para execução.
 
-![Modelo Físico - MySQL Workbench](modelo-fisico.sql)
+![Modelo Físico - MySQL Workbench](modelo-fisico.png)
 
 ---
 
