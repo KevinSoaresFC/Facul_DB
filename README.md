@@ -12,7 +12,7 @@ Usei o MySQL Workbench para modelar tudo certinho!
 Comecei com o Diagrama Entidade-Relacionamento (DER).  
 Ele mostra como tudo se conecta: alunos, cursos, notas, pagamentos... é como o mapa do sistema!
 
-![Modelo Conceitual - DER](imagens/modelo-conceitual.png)
+![Modelo Conceitual - DER](ModeloConceitual.png)
 
 Exemplos:
 - Um aluno pode ter várias mensalidades.
@@ -25,7 +25,7 @@ Exemplos:
 
 Depois do conceitual, vem o modelo lógico, que define os nomes das tabelas, os tipos de relacionamentos (1:N, N:N) e prepara tudo para virar tabelas de verdade.
 
-![Modelo Lógico](imagens/modelo-logico.png)
+![Modelo Lógico](ModeloLogico.png)
 
 Esse modelo mostra como as entidades do DER viram estruturas com nomes de tabelas e chaves estrangeiras.
 
@@ -36,7 +36,7 @@ Esse modelo mostra como as entidades do DER viram estruturas com nomes de tabela
 Com base no modelo lógico, construí o banco no MySQL Workbench.  
 Aqui já temos os nomes das tabelas, campos, tipos de dados e relacionamentos prontos para execução.
 
-![Modelo Físico - MySQL Workbench](imagens/modelo-fisico.png)
+![Modelo Físico - MySQL Workbench](modelo-fisico.sql)
 
 ---
 
