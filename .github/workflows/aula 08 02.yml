@@ -7,8 +7,12 @@ nome : CI
 
 
 # Controla quando o fluxo de trabalho será executado
-
-sobre :
+on:
+  push:
+    branches: [ "principal" ]
+  pull_request:
+    branches: [ "principal" ]
+  workflow_dispatch:
 
  # Aciona o fluxo de trabalho em eventos de solicitação push ou pull, mas apenas para o branch "principal"
 
