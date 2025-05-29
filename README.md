@@ -61,7 +61,7 @@ Essas são as principais partes do sistema:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/KevinSoaresFC/seu-repositorio.git
+git clone https://github.com/KevinSoaresFC/Facul_DB.git
 ```
 
 2. Importe o arquivo `.mwb` no MySQL Workbench.
