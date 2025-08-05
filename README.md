@@ -57,19 +57,6 @@ Essas são as principais partes do sistema:
 
 ---
 
-## 🚀 Como Usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/KevinSoaresFC/Facul_DB.git
-```
-
-2. Importe o arquivo `.mwb` no MySQL Workbench.
-
-3. Gere e execute o script SQL para criar o banco de dados localmente.
-
----
-
 ## 💻 Tecnologias Utilizadas
 
 - MySQL Workbench  
