@@ -5,7 +5,7 @@ Criei um sistema acadêmico simples e funcional, que gerencia alunos, cursos, no
 
 Usei o MySQL Workbench para modelar tudo certinho!
 
----
+
 
 ## 🧠 Modelo Conceitual (DER)
 
