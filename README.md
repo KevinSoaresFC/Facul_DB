@@ -65,10 +65,4 @@ Essas são as principais partes do sistema:
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 Feito com dedicação por [Kevin Soares](https://github.com/KevinSoaresFC)
