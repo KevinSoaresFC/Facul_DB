@@ -5,6 +5,8 @@ Criei um sistema acadêmico simples e funcional, que gerencia alunos, cursos, no
 
 Usei o MySQL Workbench para modelar tudo certinho!
 
+![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+
 ---
 
 ## 🧠 Modelo Conceitual (DER)
