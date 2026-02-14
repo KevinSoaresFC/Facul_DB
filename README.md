@@ -64,5 +64,6 @@ Essas são as principais partes do sistema:
 - Git & GitHub  
 
 ---
+## 👤 Autor
 
 Feito com dedicação por [Kevin Soares](https://github.com/KevinSoaresFC)
